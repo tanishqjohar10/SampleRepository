@@ -4,4 +4,5 @@ git  init
 git add .
 git commit -m "Version1"
 git config --global user.name "tanishq"
+git push -u origin master
 first stage then commit
