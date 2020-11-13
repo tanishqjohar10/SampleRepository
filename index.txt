@@ -1,0 +1,7 @@
+This is version one of my software.
+git status
+git  init
+git add .
+git commit -m "Version1"
+git config --global user.name "tanishq"
+first stage then commit
